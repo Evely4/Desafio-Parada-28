@@ -1,0 +1,10 @@
+body{
+    background-image: url(../IMG/capa\ fundo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+    
+}
